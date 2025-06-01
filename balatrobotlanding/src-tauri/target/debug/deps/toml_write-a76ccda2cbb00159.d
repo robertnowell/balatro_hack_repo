@@ -1,0 +1,11 @@
+/Users/robertnowell/factory-tutorial/src-tauri/target/debug/deps/libtoml_write-a76ccda2cbb00159.rmeta: /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.1/src/lib.rs /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.1/src/key.rs /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.1/src/string.rs /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.1/src/value.rs /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.1/src/write.rs
+
+/Users/robertnowell/factory-tutorial/src-tauri/target/debug/deps/libtoml_write-a76ccda2cbb00159.rlib: /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.1/src/lib.rs /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.1/src/key.rs /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.1/src/string.rs /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.1/src/value.rs /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.1/src/write.rs
+
+/Users/robertnowell/factory-tutorial/src-tauri/target/debug/deps/toml_write-a76ccda2cbb00159.d: /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.1/src/lib.rs /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.1/src/key.rs /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.1/src/string.rs /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.1/src/value.rs /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.1/src/write.rs
+
+/Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.1/src/lib.rs:
+/Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.1/src/key.rs:
+/Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.1/src/string.rs:
+/Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.1/src/value.rs:
+/Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_write-0.1.1/src/write.rs:

@@ -1,0 +1,11 @@
+/Users/robertnowell/factory-tutorial/src-tauri/target/debug/deps/libxattr-26c277b3ddcf93de.rmeta: /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.0/src/lib.rs /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.0/src/error.rs /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.0/src/sys/mod.rs /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.0/src/util.rs /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.0/src/sys/linux_macos.rs
+
+/Users/robertnowell/factory-tutorial/src-tauri/target/debug/deps/libxattr-26c277b3ddcf93de.rlib: /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.0/src/lib.rs /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.0/src/error.rs /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.0/src/sys/mod.rs /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.0/src/util.rs /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.0/src/sys/linux_macos.rs
+
+/Users/robertnowell/factory-tutorial/src-tauri/target/debug/deps/xattr-26c277b3ddcf93de.d: /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.0/src/lib.rs /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.0/src/error.rs /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.0/src/sys/mod.rs /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.0/src/util.rs /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.0/src/sys/linux_macos.rs
+
+/Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.0/src/lib.rs:
+/Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.0/src/error.rs:
+/Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.0/src/sys/mod.rs:
+/Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.0/src/util.rs:
+/Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xattr-1.5.0/src/sys/linux_macos.rs:

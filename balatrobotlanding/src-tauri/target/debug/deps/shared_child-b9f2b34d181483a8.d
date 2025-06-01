@@ -1,0 +1,10 @@
+/Users/robertnowell/factory-tutorial/src-tauri/target/debug/deps/libshared_child-b9f2b34d181483a8.rmeta: /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/shared_child-1.0.2/src/lib.rs /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/shared_child-1.0.2/src/sys/mod.rs /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/shared_child-1.0.2/src/sys/unix.rs /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/shared_child-1.0.2/src/unix.rs
+
+/Users/robertnowell/factory-tutorial/src-tauri/target/debug/deps/libshared_child-b9f2b34d181483a8.rlib: /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/shared_child-1.0.2/src/lib.rs /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/shared_child-1.0.2/src/sys/mod.rs /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/shared_child-1.0.2/src/sys/unix.rs /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/shared_child-1.0.2/src/unix.rs
+
+/Users/robertnowell/factory-tutorial/src-tauri/target/debug/deps/shared_child-b9f2b34d181483a8.d: /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/shared_child-1.0.2/src/lib.rs /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/shared_child-1.0.2/src/sys/mod.rs /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/shared_child-1.0.2/src/sys/unix.rs /Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/shared_child-1.0.2/src/unix.rs
+
+/Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/shared_child-1.0.2/src/lib.rs:
+/Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/shared_child-1.0.2/src/sys/mod.rs:
+/Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/shared_child-1.0.2/src/sys/unix.rs:
+/Users/robertnowell/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/shared_child-1.0.2/src/unix.rs:

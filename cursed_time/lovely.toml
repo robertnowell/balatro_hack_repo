@@ -1,0 +1,67 @@
+[manifest]
+version = "1.0.0"
+priority = 0
+
+[[patches]]
+[patches.pattern]
+target = "game.lua"
+pattern = "if G.SETTINGS.skip_splash == 'Yes' then"
+position = "at"
+payload = "if true then"
+match_indent = true
+times = 1
+
+[[patches]]
+[patches.pattern]
+target = "game.lua"
+pattern = '''self.GAME = saveTable and saveTable.GAME or self:init_game_object()'''
+position = "at"
+payload = '''
+self.GAME = saveTable and saveTable.GAME or self:init_game_object()
+self.RE = {}
+self.RE.earnings = {}
+'''
+match_indent = true
+times = 1
+
+[[patches]]
+[patches.pattern]
+target = "functions/state_events.lua"
+pattern = "G.FUNCS.evaluate_round = function()"
+position = "at"
+payload = '''
+G.FUNCS.evaluate_round = function()
+    G.RE.earnings = {}
+'''
+match_indent = true
+times = 1
+
+[[patches]]
+[patches.pattern]
+target = "functions/common_events.lua"
+pattern = '''
+                G.VIBRATION = G.VIBRATION + 1
+                return true
+            end
+        }))
+    end
+end
+'''
+position = "at"
+payload = '''                G.VIBRATION = G.VIBRATION + 1
+                return true
+            end
+        }))
+    end
+    G.E_MANAGER:add_event(Event({
+        trigger = 'immediate',
+        no_delete = true,
+        func = function()
+            table.insert(G.RE.earnings, config)
+            return true
+        end
+    }))
+end
+'''
+match_indent = true
+times = 1
