@@ -7,7 +7,6 @@ const app = express();
 const PORT = 3001;
 
 // MongoDB connection string with credentials and authSource
-const uri = "mongodb+srv://balatro:a2%239rxksh%21g6y8U@balatroagent.dxm3nnc.mongodb.net/balatroagent?retryWrites=true&w=majority&authSource=admin";
 
 // Create a MongoClient with options
 const client = new MongoClient(uri, {
